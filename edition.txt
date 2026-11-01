@@ -1,2 +1,2 @@
-Shared status: the project is ready for collaboration.
+Shared status: urgent correction recorded on the main branch.
 Next step: test the result before deployment.
